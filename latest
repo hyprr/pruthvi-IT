@@ -1,0 +1,15 @@
+a=45
+b=15
+if a>b:
+	print("a is greater than b")
+else:
+	print("b is greater than a")
+
+
+
+a=45
+b=15
+if a>0:
+	print("a is a positive number")
+else:
+	print("a is a negative number")
